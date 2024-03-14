@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kheronn/projeto-de-vida-turmaDT">
-    <img src="turmabn.png" alt="Logo" >
+    <img src="turmadt.png" alt="Logo" >
   </a>
 
 <h3 align="center">Projeto de Vida - Turma DT</h3>
